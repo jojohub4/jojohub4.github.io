@@ -28,7 +28,7 @@ body{
    }
    .service-grid{
        display: grid;
-       grid-template-columns: 1fr 1fr 1fr;
+       grid-template-columns: 1fr 1fr;
        margin-left: 20px;
        margin-top: 50px;
    }
